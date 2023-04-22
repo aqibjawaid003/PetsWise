@@ -1,0 +1,11 @@
+.red{
+    color: #F63D3D;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+}
+.collection{
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,60 @@
+.service{
+    background-color: #F6F6F6;
+}
+.service_main{
+   display: flex;
+   justify-content: center;
+ padding-top:10px;
+}
+.top40{
+    padding-top:60px;
+}
+.red{
+    color: #F63D3D;
+}
+.service_main1{
+    display: flex;
+    justify-content:space-evenly;
+}
+.service1{
+    margin-top:50px;
+    width:183px;
+    text-align: center;
+    margin-bottom:40px;
+}
+.suport{
+    background: rgba(0, 34, 156, 0.1);
+    border-radius: 8px;
+    width:90px;
+    padding:4px;
+    
+}
+.truck{
+    background: rgba(152, 80, 197, 0.25);
+    border-radius: 8px;
+    width:90px;
+    padding:4px;
+}
+.shield{
+    background: rgba(172, 51, 51, 0.3);
+    border-radius: 8px;
+    width:90px;
+    padding:4px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.bold{
+    font-weight: bolder;
+    font-size: larger;
+}
+.top8{
+    margin-top:8px;
+}
+.Font_light{
+font-weight: lighter;
+}
+.font_small{
+ font-size: small;
+}
