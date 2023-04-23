@@ -19,7 +19,7 @@ function Home() {
                   There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,
                 </p>
                 <button className='shop_top' type="submit">Shop Top</button>
-                <button className='shop_now' type="submit">Shop Now</button>
+                <button className='shopnow' type="submit">Shop Now</button>
                 
             </div>
         </div>
