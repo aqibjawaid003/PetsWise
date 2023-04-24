@@ -1,0 +1,60 @@
+.contact_main{
+    background-color: #F63D3D;
+    color: white;
+    height:380px;
+}
+.contact{
+    display: flex;
+ justify-content: center;
+    padding-top:60px;
+  
+}
+.contact img{
+    margin-right:4%;
+}
+.contact_A{
+ width:200px;
+ 
+}
+.contact_A p{
+    margin-top:15px;
+    font-size:15px;
+}
+.contact_A a{
+    color: white;
+    font-weight: 10;
+}
+.contact_B{
+    width:210px;  
+   }
+.contact_B p{
+    margin-top:15px;
+    font-size:15px;
+    font-weight: lighter;
+}
+.contact_B input{
+    margin-top:22%;
+    height:25px;
+    background-color:#F63D3D;
+    border:0;
+    color: white;
+}
+::placeholder {
+   color: white;
+    opacity:0.7;
+    font-size:20px;
+    font-weight: lighter;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    margin-top:4%;
+}
+.empty{
+    height:100px;
+}
+.icon i{
+    padding: 4px;
+    margin-top:12px;
+    font-size:20px;
+}
